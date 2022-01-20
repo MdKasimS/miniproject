@@ -1,0 +1,89 @@
+1. AI : human intelligence in machines. It can be a program or a whole insane machine. The key apsect is 
+
+2. ML : Set of algorithms which are based on statistical and mathematical(like probability, distributions curves, gaussain squre methods) formulae and fundamentals->preparing model using such algo for automating decision capability gives us self learning, intelligence proprty to machines, a kind of mimicry, which we humans have
+
+3. DL : acheiving self learning, self decision making kind of intelligence in machines(hardware or software) using a particular set of ML algorithms with network theory approach, forming network of computing nodes i.e special mathematical functions called artifical neurons implemented either in hardware or software(using principles of threads)
+
+(Please do not share definitions)
+
+4. DATASCIENCE(Modern STATISTICIANS)
+
+
+
+
+Understanding functions and its significance with prediction, real time consequneces and meaning
+
+Eg:
+5kg sugar = Rs.55
+
+
+10kg ???
+
+
+f(x)=C*x
+
+Pandas:- To manipulate Datasheets/Databases
+	1. Null values delete 
+	2. NA values fill up using statistical operations: - Mean, Median, Mode
+	3. Correlation (-1 to 1) 
+	4. 
+
+a=x,b,c,d,e,f=columns	 f(x)
+| correlation
+-1 to 1
+
+
+-1->invesrely co-related
+0->there is no co-related
+1->perfectly co-related
+
+
+if a=2=x->f(x)
+
+b=5
+b=a*2+1=g(a)
+c=h(a)
+
+(x+a)^2=x*x + 2*a*x + a*a
+(x+a)^3=
+(a+b+c+d)^2=
+
+
+
+f(x)= -----Consist of terms that contain x which are hard to tabulate manually--------------------------------------
+
+
+
+NUmpy- mathematical calculations
+Pandas- Data manipulations/ exploration/transformation 
+Scilearn- Consist of classes and functions which have algorithms that generate statistical models which are deployed for developers to embed in applications or host on servers.
+
+
+How to solve Ml problems???
+
+1. Decide type of problem solution: A. Supervised B. Unsupervised C. Reinforcement
+2. Data aqcuisation
+3. Data explore
+4. Data preparation -   a. data validation and clean
+			b. missing values
+			c. data imbalancement
+			d. transformation
+5. model development 	a. feature engineering
+		  	b. models and algos try
+		  	c. model score
+		  	d. select the model
+6. Model maintain
+7. Deployment	 
+
+
+
+
+
+
+
+
+
+
+
+
+
